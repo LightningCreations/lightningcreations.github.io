@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Lightning Creations</title>
+</svelte:head>
+
 <div id="bg-image"></div>
 
 <style>
