@@ -2,7 +2,7 @@
     <title>Lightning Creations</title>
 </svelte:head>
 
-<div id="bg-image"></div>
+<div id="bg-image" class="h-full"></div>
 
 <style>
     @media (min-aspect-ratio: 1/1) {
@@ -10,7 +10,6 @@
             background-image: url("/bg/wide.png");
             background-position: center;
             background-size: cover;
-            height: calc(100% - 4rem - 2rem);
         }
     }
 
@@ -19,7 +18,6 @@
             background-image: url("/bg/tall.png");
             background-position: top;
             background-size: cover;
-            height: calc(100% - 4rem - 2rem);
         }
     }
 </style>
