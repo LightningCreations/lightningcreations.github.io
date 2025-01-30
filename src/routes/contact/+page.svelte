@@ -2,6 +2,10 @@
     import Mailto from "$lib/components/Mailto.svelte";
 </script>
 
+<svelte:head>
+    <title>Lightning Creations - Contact</title>
+</svelte:head>
+
 <div class="p-12 container">
     <h1 class="text-6xl">Contact</h1>
     <p>Administration: <Mailto href="admin@lcdev.xyz" /></p>

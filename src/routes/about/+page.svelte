@@ -1,5 +1,9 @@
+<svelte:head>
+    <title>Lightning Creations - About Us</title>
+</svelte:head>
+
 <div class="container p-12">
-    <h1 class="pb-2 text-6xl">About</h1>
+    <h1 class="pb-2 text-6xl">About Us</h1>
     <p class="py-2">
         Lightning Creations is a collective of engineers and creatives with a dream to change the
         world. Many of us came together to make games and open source projects. Others came to make
@@ -13,7 +17,10 @@
     </p>
     <p class="py-2">
         Our current goal is to become profitable so we can start to enact our mission. To learn
-        more, join our <a class="text-cyan-100 underline" href="https://discord.gg/mkBtTMk6cA">Discord server</a> or contact us by
+        more, join our <a class="text-cyan-100 underline" href="https://discord.gg/mkBtTMk6cA"
+            >Discord server</a
+        >
+        or contact us by
         <a class="text-cyan-100 underline" href="mailto:admin@lcdev.xyz">email</a>.
     </p>
 </div>

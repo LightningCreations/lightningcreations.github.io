@@ -16,7 +16,7 @@
         <NavLink href="/" bind:open class="text-cyan-200">Lightning Creations</NavLink>
         <ScrollArea orientation="both" class="my-4">
             <div class="flex flex-col space-y-3">
-                <NavLink href="/about" bind:open>About</NavLink>
+                <NavLink href="/about" bind:open>About Us</NavLink>
                 <NavLink href="/contact" bind:open>Contact</NavLink>
             </div>
             <div class="flex flex-col space-y-2 pt-6">
